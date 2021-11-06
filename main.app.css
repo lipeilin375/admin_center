@@ -1,0 +1,22 @@
+.top_bar {
+    width: 100%;
+    height: 5%;
+    background-color: rgb(66, 66, 66);
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3px;
+    border-radius: 5px;
+    position: fixed;
+}
+
+.tool_bar {
+    width: 15%;
+    height: 90%;
+    margin-top: 25px;
+    background-color: rgb(66, 66, 66);
+    color: red;
+    padding: 3px;
+    border-radius: 5px;
+    position: fixed;
+}
